@@ -1,2 +1,3 @@
 # hello-world
-my beggining
+The kid teacher is a simple application for kids.
+
